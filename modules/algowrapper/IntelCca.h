@@ -16,7 +16,7 @@
 
 #pragma once
 
-#include <IntelCCA.h>
+#include <IntelCca.h>
 
 #include <memory>
 #include <string>
